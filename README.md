@@ -156,7 +156,7 @@ The docker image is also tagged with the commit sha and pushed to the docker hub
 
 ## Docker Hub
 
-The docker image is available on [Docker Hub](https://hub.docker.com/repository/docker/kenmwaura1/fast-api-example)
+The docker image available on [Docker Hub](https://hub.docker.com/repository/docker/kenmwaura1/fast-api-example)
 
 ## License
 
